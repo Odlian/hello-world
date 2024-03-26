@@ -1,3 +1,3 @@
 readme.txt
 
-Hello!
+Hello! This is the best!
